@@ -1,0 +1,488 @@
+{
+    "paging": {
+        "is_end": false,
+        "previous": "http://www.zhihu.com/api/v4/topics/19552832/feeds/essence?limit=10&offset=0",
+        "is_start": true,
+        "next": "http://www.zhihu.com/api/v4/topics/19552832/feeds/essence?limit=10&offset=10"
+    },
+    "data": [
+        {
+            "type": "topic_feed",
+            "target": {
+                "author": {
+                    "badge": [
+                        {
+                            "type": "identity",
+                            "description": "已认证的官方帐号"
+                        },
+                        {
+                            "type": "best_answerer",
+                            "description": "优秀回答者"
+                        }
+                    ],
+                    "name": "量子位",
+                    "edu_member_tag": {
+                        "type": "default",
+                        "member_tag": ""
+                    },
+                    "headline": "有趣的AI&前沿科技→_→ 公众号：QbitAI",
+                    "url_token": "liang-zi-wei-48",
+                    "user_type": "organization",
+                    "is_advertiser": false,
+                    "is_org": true,
+                    "gender": -1,
+                    "type": "people",
+                    "id": "36f69162230003d316d0b8a6d8da20ba"
+                },
+                "excerpt": "给大家推荐一个Python资源。有位名叫骆昊 (jackfrued) 的资深程序员，为大家规划了一条从“<b>从新手到大师<\/b>”的百天之路。从全方位熟悉语言，到Python的进阶用法，再到天南地北的实战攻略：只要沿着这条路走下去，就都会遇到的。这个项目已经在GitHub摘下<b>8100星<\/b>…",
+                "id": 683070334,
+                "question": {
+                    "title": "你们都是怎么学 Python 的？",
+                    "created": 1486390229,
+                    "question_type": "normal",
+                    "type": "question",
+                    "id": 55493026
+                },
+                "updated_time": 1557824412,
+                "comment_count": 618,
+                "created_time": 1557824412,
+                "type": "answer",
+                "voteup_count": 28560
+            }
+        },
+        {
+            "type": "topic_feed",
+            "target": {
+                "updated": 1561887778,
+                "author": {
+                    "avatar_url_template": "https://pic3.zhimg.com/50/v2-a7e6c93538f988a13b25478e6f015044_{size}.jpg",
+                    "badge": [],
+                    "name": "TwilightZjy",
+                    "edu_member_tag": {
+                        "type": "subject",
+                        "member_tag": "应用物理"
+                    },
+                    "headline": "公众号「转行做DT」 微信号「Dangeranerd7」",
+                    "url_token": "twilightzjy",
+                    "user_type": "people",
+                    "is_advertiser": false,
+                    "avatar_url": "https://pic3.zhimg.com/50/v2-a7e6c93538f988a13b25478e6f015044_is.jpg",
+                    "is_org": false,
+                    "gender": 1,
+                    "url": "http://www.zhihu.com/api/v4/people/bbe45666f3f5c164a60e363e891fa882",
+                    "type": "people",
+                    "id": "bbe45666f3f5c164a60e363e891fa882"
+                },
+                "url": "http://zhuanlan.zhihu.com/p/67196322",
+                "title": "你在 B 站看番剧，别人在 B 站学 Python",
+                "excerpt": "B 站也就是哔哩哔哩，是国内最大的二次元视频网站之一，喜欢看动漫的人估计没几个不知道的。我虽然看视频不多，但现在基本想看视频就直接去 B 站了。 刚开始知识看看动漫，或者电影解读之类的，后来无意中发现了关于 SAS 的视频教程之后，让我对 B 站开始好…",
+                "created": 1558961969,
+                "comment_count": 664,
+                "image_url": "https://pic3.zhimg.com/50/v2-860c55712e4c325bc6a3d5785be1b46b_hd.jpg",
+                "excerpt_title": "",
+                "topic_thumbnails": [
+                    "https://pic3.zhimg.com/50/v2-860c55712e4c325bc6a3d5785be1b46b_hd.jpg",
+                    "https://pic4.zhimg.com/80/v2-ac06f51add7c2af0ea0c926c143ac64b_250x0.jpg"
+                ],
+                "type": "article",
+                "id": 67196322,
+                "voteup_count": 22298
+            },
+            "attached_info": "Ci0QBxoJMTAzMDYxMjYzILG+r+cFKJquATCYBUAAUgVfcG9zdHIINjcxOTYzMjI="
+        },
+        {
+            "type": "topic_feed",
+            "target": {
+                "author": {
+                    "avatar_url_template": "https://pic3.zhimg.com/50/v2-16b99e2a351983b8bba575b377b17911_{size}.jpg",
+                    "badge": [],
+                    "name": "TheAnswer",
+                    "edu_member_tag": {
+                        "type": "subject",
+                        "member_tag": "软件工程专业"
+                    },
+                    "headline": "",
+                    "url_token": "code123",
+                    "user_type": "people",
+                    "is_advertiser": false,
+                    "avatar_url": "https://pic3.zhimg.com/50/v2-16b99e2a351983b8bba575b377b17911_is.jpg",
+                    "is_org": false,
+                    "gender": 1,
+                    "url": "http://www.zhihu.com/api/v4/people/2f12a2c52d1af80e091341c00f67227d",
+                    "type": "people",
+                    "id": "2f12a2c52d1af80e091341c00f67227d"
+                },
+                "url": "http://www.zhihu.com/api/v4/answers/64926634",
+                "excerpt": "零基础学编程，用python入门是个不错的选择，虽然国内基本上还是以c语言作为入门开发语言，但在国外，已经有很多的学校使用python作为入门编程语言。此外，python在机器学习，人工智能领域也非常流行，算得上是算法工程师的标配编程语言。<b>下面的内容由浅入…<\/b>",
+                "id": 64926634,
+                "question": {
+                    "title": "编程零基础应当如何开始学习 Python？",
+                    "url": "http://www.zhihu.com/api/v4/questions/20039623",
+                    "created": 1327915953,
+                    "question_type": "normal",
+                    "is_following": false,
+                    "type": "question",
+                    "id": 20039623
+                },
+                "updated_time": 1573144686,
+                "comment_count": 217,
+                "created_time": 1443020451,
+                "topic_thumbnails": [],
+                "type": "answer",
+                "thumbnail": "",
+                "voteup_count": 18222
+            },
+            "attached_info": "CjYQBBoIMjEzODYzNzcgo/2KsAUoro4BMNkBQABSB19hbnN3ZXJaBjE5NTg1NXIINjQ5MjY2MzQ="
+        },
+        {
+            "type": "topic_feed",
+            "target": {
+                "updated": 1465570111,
+                "author": {
+                    "avatar_url_template": "https://pic1.zhimg.com/50/v2-a2ba73a1e41a775b79c8436e1a160888_{size}.jpg",
+                    "badge": [
+                        {
+                            "type": "identity",
+                            "description": "伦敦大学学院 数学博士"
+                        },
+                        {
+                            "type": "best_answerer",
+                            "description": "优秀回答者"
+                        }
+                    ],
+                    "name": "Yupeng",
+                    "edu_member_tag": {
+                        "type": "default",
+                        "member_tag": ""
+                    },
+                    "headline": "策略研究/数学PhD/历史、葡萄酒爱好者",
+                    "url_token": "yupeng-jiang",
+                    "user_type": "people",
+                    "is_advertiser": false,
+                    "avatar_url": "https://pic1.zhimg.com/50/v2-a2ba73a1e41a775b79c8436e1a160888_is.jpg",
+                    "is_org": false,
+                    "gender": 1,
+                    "url": "http://www.zhihu.com/api/v4/people/9a8e80543e042053e2dd8efa43596818",
+                    "type": "people",
+                    "id": "9a8e80543e042053e2dd8efa43596818"
+                },
+                "url": "http://zhuanlan.zhihu.com/p/21332075",
+                "title": "三天搞定Python",
+                "excerpt": "知乎的各位朋友不好意思，前段时间因为给本科生带了一个Python的培训课程，每天弄得很累，所以没时间前来更新。也很感谢和欢迎猫兄<a href=\"https://www.zhihu.com/people/5f6a0548d644067d949476560aa17d61\" data-hash=\"5f6a0548d644067d949476560aa17d61\" class=\"member_mention\" data-editable=\"true\" data-title=\"@黑猫Q形态\" data-tip=\"p$b$5f6a0548d644067d949476560aa17d61\" data-hovercard=\"p$b$5f6a0548d644067d949476560aa17d61\">@黑猫Q形态<\/a>在我的专栏发文。我在学校带的Python课程主要是针对低年级的本科生，他们没有任何编程基础，很多人也没有学习很复…",
+                "created": 1465570112,
+                "column": {
+                    "updated": 1524556196,
+                    "image_url": "https://pic1.zhimg.com/0aa8c77d1d6582eea12d0c8264de2bef_b.jpg",
+                    "title": "Jiang的金融窝",
+                    "url": "http://www.zhihu.com/api/v4/columns/quantjiang",
+                    "author": {
+                        "avatar_url_template": "https://pic1.zhimg.com/50/v2-a2ba73a1e41a775b79c8436e1a160888_{size}.jpg",
+                        "badge": [
+                            {
+                                "type": "identity",
+                                "description": "伦敦大学学院 数学博士"
+                            },
+                            {
+                                "type": "best_answerer",
+                                "description": "优秀回答者"
+                            }
+                        ],
+                        "name": "Yupeng",
+                        "edu_member_tag": {
+                            "type": "default",
+                            "member_tag": ""
+                        },
+                        "headline": "策略研究/数学PhD/历史、葡萄酒爱好者",
+                        "url_token": "yupeng-jiang",
+                        "user_type": "people",
+                        "is_advertiser": false,
+                        "avatar_url": "https://pic1.zhimg.com/50/v2-a2ba73a1e41a775b79c8436e1a160888_is.jpg",
+                        "is_org": false,
+                        "gender": 1,
+                        "url": "http://www.zhihu.com/api/v4/people/9a8e80543e042053e2dd8efa43596818",
+                        "type": "people",
+                        "id": "9a8e80543e042053e2dd8efa43596818"
+                    },
+                    "type": "column",
+                    "id": "quantjiang"
+                },
+                "comment_count": 585,
+                "excerpt_title": "",
+                "topic_thumbnails": [],
+                "type": "article",
+                "id": 21332075,
+                "voteup_count": 16607
+            },
+            "attached_info": "CjEQBxoGNzE2NjAxIMCm67oFKN+BATDJBEAAUgVfcG9zdFoFMTQ5NjhyCDIxMzMyMDc1"
+        },
+        {
+            "type": "topic_feed",
+            "target": {
+                "author": {
+                    "avatar_url_template": "https://pic4.zhimg.com/50/da8e974dc_{size}.jpg",
+                    "badge": [],
+                    "name": "知乎用户",
+                    "edu_member_tag": {
+                        "type": "subject",
+                        "member_tag": "自动化系"
+                    },
+                    "headline": "",
+                    "url_token": "",
+                    "user_type": "people",
+                    "is_advertiser": false,
+                    "avatar_url": "https://pic4.zhimg.com/50/da8e974dc_is.jpg",
+                    "is_org": false,
+                    "gender": 1,
+                    "url": "http://www.zhihu.com/api/v4/people/0",
+                    "type": "people",
+                    "id": "2c5ce9612b1f25a3f3bf251a09c904b5"
+                },
+                "url": "http://www.zhihu.com/api/v4/answers/81972368",
+                "excerpt": "基于这个笔记的实体书了解一下？书名叫《自学Python——编程基础科学计算及数据分析》，将笔记的内容进行了系统整理，并补充了一些基础知识，可以对照两边的目录看差异。<b>基于2.7<\/b>。京东有自营。Python 其实挺简单的，也挺强大的。我用 Python 做科学计算，自…",
+                "id": 81972368,
+                "question": {
+                    "title": "如何系统地自学 Python？",
+                    "url": "http://www.zhihu.com/api/v4/questions/29138020",
+                    "created": 1427615118,
+                    "question_type": "normal",
+                    "is_following": false,
+                    "type": "question",
+                    "id": 29138020
+                },
+                "updated_time": 1529561575,
+                "comment_count": 387,
+                "created_time": 1453006886,
+                "topic_thumbnails": [],
+                "type": "answer",
+                "thumbnail": "",
+                "voteup_count": 16049
+            },
+            "attached_info": "CjYQBBoIMjgyMTgzMDcgpsDstAUosX0wgwNAAFIHX2Fuc3dlcloHMzgzODA3MnIIODE5NzIzNjg="
+        },
+        {
+            "type": "topic_feed",
+            "target": {
+                "author": {
+                    "avatar_url_template": "https://pic2.zhimg.com/50/v2-f08b547b3cc5ad08e691497129134048_{size}.jpg",
+                    "badge": [],
+                    "name": "美元先生",
+                    "edu_member_tag": {
+                        "type": "subject",
+                        "member_tag": "MBA"
+                    },
+                    "headline": "机器学习，MBA-小白友好的美元市场投资、理财信息",
+                    "url_token": "xie-ke-41",
+                    "user_type": "people",
+                    "is_advertiser": false,
+                    "avatar_url": "https://pic2.zhimg.com/50/v2-f08b547b3cc5ad08e691497129134048_is.jpg",
+                    "is_org": false,
+                    "gender": 1,
+                    "url": "http://www.zhihu.com/api/v4/people/86858a7a4aa77d290364625efcaacb70",
+                    "type": "people",
+                    "id": "86858a7a4aa77d290364625efcaacb70"
+                },
+                "url": "http://www.zhihu.com/api/v4/answers/24923424",
+                "excerpt": "“入门”是良好的动机，但是可能作用缓慢。如果你手里或者脑子里有一个项目，那么实践起来你会被目标驱动，而不会像学习模块一样慢慢学习。 另外如果说知识体系里的每一个知识点是图里的点，依赖关系是边的话，那么这个图一定不是一个有向无环图。因为学习A…",
+                "id": 24923424,
+                "question": {
+                    "title": "如何入门 Python 爬虫？",
+                    "url": "http://www.zhihu.com/api/v4/questions/20899988",
+                    "created": 1364649284,
+                    "question_type": "normal",
+                    "is_following": false,
+                    "type": "question",
+                    "id": 20899988
+                },
+                "updated_time": 1400431225,
+                "comment_count": 304,
+                "created_time": 1398451573,
+                "topic_thumbnails": [],
+                "type": "answer",
+                "thumbnail": "",
+                "voteup_count": 15187
+            },
+            "attached_info": "CjQQBBoHNTI2MjEwOSD12uqaBSjTdjCwAkAAUgdfYW5zd2VyWgY1NDA0NjhyCDI0OTIzNDI0"
+        },
+        {
+            "type": "topic_feed",
+            "target": {
+                "author": {
+                    "avatar_url_template": "https://pic2.zhimg.com/50/059217c75a2a74620ee1e9e494bd91fe_{size}.jpg",
+                    "badge": [],
+                    "name": "Wayne Shi",
+                    "edu_member_tag": {
+                        "type": "default",
+                        "member_tag": ""
+                    },
+                    "headline": "Learn by doing ",
+                    "url_token": "sw2016",
+                    "user_type": "people",
+                    "is_advertiser": false,
+                    "avatar_url": "https://pic2.zhimg.com/50/059217c75a2a74620ee1e9e494bd91fe_is.jpg",
+                    "is_org": false,
+                    "gender": 1,
+                    "url": "http://www.zhihu.com/api/v4/people/317fffe6dcd8df5e5b9c2d9087a4382d",
+                    "type": "people",
+                    "id": "317fffe6dcd8df5e5b9c2d9087a4382d"
+                },
+                "url": "http://www.zhihu.com/api/v4/answers/88744491",
+                "excerpt": "2019年1月29日更新：重新检查整理了下面推荐的项目教程，有些版本老的、内容过期的都做了更新，现在推荐的都是保证可以使用在线环境完成的，大家可以选择自己感兴趣的练习。Learn by doing才是正确的技术学习姿势。………………………………………………分…",
+                "id": 88744491,
+                "question": {
+                    "title": "Python 的练手项目有哪些值得推荐？",
+                    "url": "http://www.zhihu.com/api/v4/questions/29372574",
+                    "created": 1428404043,
+                    "question_type": "normal",
+                    "is_following": false,
+                    "type": "question",
+                    "id": 29372574
+                },
+                "updated_time": 1548737916,
+                "comment_count": 252,
+                "created_time": 1456810657,
+                "topic_thumbnails": [
+                    "https://pic3.zhimg.com/80/v2-4675ef87f975c61db1888b84bdd7399e_250x0.jpg",
+                    "https://pic1.zhimg.com/80/v2-c3b65221aa67f9b977e28181b913fcab_250x0.jpg",
+                    "https://pic3.zhimg.com/80/v2-b0912d1326b1d4928b833f2494574255_250x0.jpg"
+                ],
+                "type": "answer",
+                "thumbnail": "https://pic3.zhimg.com/v2-4675ef87f975c61db1888b84bdd7399e_200x112.jpg",
+                "voteup_count": 14980
+            },
+            "attached_info": "CjYQBBoIMzA5MzI2MDggodXUtgUohHUw/AFAAFIHX2Fuc3dlcloHMzkzMTgzOXIIODg3NDQ0OTE="
+        },
+        {
+            "type": "topic_feed",
+            "target": {
+                "author": {
+                    "avatar_url_template": "https://pic1.zhimg.com/50/v2-a3912c2545cfc70c679afcd2d41eb463_{size}.jpg",
+                    "badge": [],
+                    "name": "桃花岛主",
+                    "edu_member_tag": {
+                        "type": "default",
+                        "member_tag": ""
+                    },
+                    "headline": "Python开发。公号：聊聊Python，欢迎来聊。",
+                    "url_token": "mi-lu-8-81-9",
+                    "user_type": "people",
+                    "is_advertiser": false,
+                    "avatar_url": "https://pic1.zhimg.com/50/v2-a3912c2545cfc70c679afcd2d41eb463_is.jpg",
+                    "is_org": false,
+                    "gender": 1,
+                    "url": "http://www.zhihu.com/api/v4/people/e10a57107141f6e95a782a199b5079a5",
+                    "type": "people",
+                    "id": "e10a57107141f6e95a782a199b5079a5"
+                },
+                "url": "http://www.zhihu.com/api/v4/answers/778840509",
+                "excerpt": "更新：说明几个事1.很多小伙伴纠结于这个一百天的时间，我觉得完全没有必要，也违背了我最初放这个大纲上来的初衷，我是觉得这个学习大纲还不错，自学按照这个来也能相对系统的学习知识，而不是零散细碎的知识最后无法整合，每个人的基础以及学习进度都不一…",
+                "id": 778840509,
+                "question": {
+                    "title": "如何系统地自学 Python？",
+                    "url": "http://www.zhihu.com/api/v4/questions/29138020",
+                    "created": 1427615118,
+                    "question_type": "normal",
+                    "is_following": false,
+                    "type": "question",
+                    "id": 29138020
+                },
+                "updated_time": 1576650519,
+                "comment_count": 181,
+                "created_time": 1565171692,
+                "topic_thumbnails": [
+                    "https://pic3.zhimg.com/80/v2-5e7279dacb357c47cfda0a8a8e6c0030_250x0.jpg",
+                    "https://pic1.zhimg.com/80/v2-2926c2b734ebd10ed6da6f63fd6a7d94_250x0.jpg",
+                    "https://pic1.zhimg.com/80/v2-7a1eecbac28d2ef0717d0a4121c55e62_250x0.jpg"
+                ],
+                "type": "answer",
+                "thumbnail": "https://pic3.zhimg.com/v2-5e7279dacb357c47cfda0a8a8e6c0030_200x112.jpg",
+                "voteup_count": 13941
+            },
+            "attached_info": "CjgQBBoJMTcxNjc0ODIzIOy/quoFKPVsMLUBQABSB19hbnN3ZXJaBzM4MzgwNzJyCTc3ODg0MDUwOQ=="
+        },
+        {
+            "type": "topic_feed",
+            "target": {
+                "author": {
+                    "avatar_url_template": "https://pic1.zhimg.com/50/v2-1745525a46d22505b4f1aa5a542556df_{size}.jpg",
+                    "badge": [],
+                    "name": "鬼谷弈邪",
+                    "edu_member_tag": {
+                        "type": "default",
+                        "member_tag": ""
+                    },
+                    "headline": "公号:弈邪录|微信:Near-Rival",
+                    "url_token": "xie-jun-47-41",
+                    "user_type": "people",
+                    "is_advertiser": false,
+                    "avatar_url": "https://pic1.zhimg.com/50/v2-1745525a46d22505b4f1aa5a542556df_is.jpg",
+                    "is_org": false,
+                    "gender": 1,
+                    "url": "http://www.zhihu.com/api/v4/people/d20483f96948e8d203fa3d25c41f241e",
+                    "type": "people",
+                    "id": "d20483f96948e8d203fa3d25c41f241e"
+                },
+                "url": "http://www.zhihu.com/api/v4/answers/449795157",
+                "excerpt": "C语言上机课，某女同学偷偷吃起牛肉干。 有一粒牛肉干掉到了键盘上，卡在7和8键之间。 女同学就在键盘上抠啊抠啊抠 程序里一行代码变成这个样子 int *pa=&*&*&*&*&*&*&*&*&*&*&*&a; 后来的结局是程序顺利通过编译运行结果正确！ 好的文字都有灵性，看过便不…",
+                "id": 449795157,
+                "question": {
+                    "title": "一行代码可以做什么？",
+                    "url": "http://www.zhihu.com/api/v4/questions/285586045",
+                    "created": 1531793910,
+                    "question_type": "normal",
+                    "is_following": false,
+                    "type": "question",
+                    "id": 285586045
+                },
+                "updated_time": 1565363439,
+                "comment_count": 937,
+                "created_time": 1532325264,
+                "topic_thumbnails": [],
+                "type": "answer",
+                "thumbnail": "",
+                "voteup_count": 13264
+            },
+            "attached_info": "CjkQBBoJMTExODQ5ODAwIJDb1doFKNBnMKkHQABSB19hbnN3ZXJaCDI1NzQwNjM4cgk0NDk3OTUxNTc="
+        },
+        {
+            "type": "topic_feed",
+            "target": {
+                "updated": 1555139265,
+                "author": {
+                    "avatar_url_template": "https://pic3.zhimg.com/50/958a18f3216805bed269d158fb83325a_{size}.jpg",
+                    "badge": [],
+                    "name": "路人甲",
+                    "edu_member_tag": {
+                        "type": "default",
+                        "member_tag": ""
+                    },
+                    "headline": "微信公众号：路人甲TM，微信：thisnozy",
+                    "url_token": "sgai",
+                    "user_type": "people",
+                    "is_advertiser": false,
+                    "avatar_url": "https://pic3.zhimg.com/50/958a18f3216805bed269d158fb83325a_is.jpg",
+                    "is_org": false,
+                    "gender": 1,
+                    "url": "http://www.zhihu.com/api/v4/people/eaf435b228ce0b038a4afe8203f59b49",
+                    "type": "people",
+                    "id": "eaf435b228ce0b038a4afe8203f59b49"
+                },
+                "url": "http://zhuanlan.zhihu.com/p/28865834",
+                "title": "一份Python爬虫电子书",
+                "excerpt": "Python爬虫现如今已经越来越吃香了，随意打开一个招聘网站从薪资水平来看，入门的爬虫工程师都能拿到15k以上，爬虫架构相关的都能拿到30k以上，我们还有什么理由去拒绝爬虫呢？当然，除非你跟钱过意不去。 所以秉着让更多想转行学习Python爬虫的的同学快速…",
+                "created": 1503965032,
+                "comment_count": 575,
+                "image_url": "https://pic2.zhimg.com/50/v2-00f6a6b05079b520c7f7f21013806d05_hd.jpg",
+                "excerpt_title": "",
+                "topic_thumbnails": [
+                    "https://pic2.zhimg.com/50/v2-00f6a6b05079b520c7f7f21013806d05_hd.jpg",
+                    "https://pic1.zhimg.com/80/v2-3f5716735908b4045d69fd4d10853654_250x0.jpg",
+                    "https://pic2.zhimg.com/80/v2-00f6a6b05079b520c7f7f21013806d05_250x0.jpg"
+                ],
+                "type": "article",
+                "id": 28865834,
+                "voteup_count": 12995
+            },
+            "attached_info": "CioQBxoHMzczNDQwMCDo3pLNBSjDZTC/BEAAUgVfcG9zdHIIMjg4NjU4MzQ="
+        }
+    ]
+}

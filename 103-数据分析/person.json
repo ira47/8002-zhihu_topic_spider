@@ -1,0 +1,29 @@
+{
+    "id": "3538c663bcd2356726fa2995c855e24e",
+    "url_token": "traderusingpython",
+    "name": "用Python的交易员",
+    "use_default_avatar": false,
+    "avatar_url": "https://pic4.zhimg.com/f947c2d9776a605d61860db2a7556a17_is.jpg",
+    "avatar_url_template": "https://pic4.zhimg.com/f947c2d9776a605d61860db2a7556a17_{size}.jpg",
+    "is_org": false,
+    "type": "people",
+    "url": "https://www.zhihu.com/api/v4/people/traderusingpython",
+    "user_type": "people",
+    "headline": "vn.py作者",
+    "gender": 1,
+    "is_advertiser": false,
+    "vip_info": {
+        "is_vip": true,
+        "rename_days": "60",
+        "widget": {
+            "url": "https://pic2.zhimg.com/v2-d05b2d4ec9a296ff85afd419be6596e2_r.png",
+            "night_mode_url": "https://pic1.zhimg.com/v2-cb5afc4a90072144d4e476dc5df8f0a1_r.png"
+        },
+        "vip_icon": {
+            "url": "https://pic3.zhimg.com/v2-4812630bc27d642f7cafcd6cdeca3d7a_r.png",
+            "night_mode_url": "https://pic3.zhimg.com/v2-c9686ff064ea3579730756ac6c289978_r.png"
+        }
+    },
+    "is_realname": true,
+    "self_recommend": null
+}
